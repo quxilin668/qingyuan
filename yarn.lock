@@ -1181,7 +1181,7 @@ alphanum-sort@^1.0.0:
 
 animate.css@latest:
   version "3.7.2"
-  resolved "http://r.cnpmjs.org/animate.css/download/animate.css-3.7.2.tgz#e73e0d50e92cb1cfef1597d9b38a9481020e08ea"
+  resolved "https://r.cnpmjs.org/animate.css/download/animate.css-3.7.2.tgz#e73e0d50e92cb1cfef1597d9b38a9481020e08ea"
   integrity sha1-5z4NUOkssc/vFZfZs4qUgQIOCOo=
 
 ansi-colors@^3.0.0:
@@ -1487,29 +1487,29 @@ bluebird@^3.1.1, bluebird@^3.5.1, bluebird@^3.5.5:
 
 bmaplib.curveline@^1.0.0:
   version "1.0.0"
-  resolved "http://r.cnpmjs.org/bmaplib.curveline/download/bmaplib.curveline-1.0.0.tgz#826eb0bf1c59fad1b23142be66fc360cf009aea2"
+  resolved "https://r.cnpmjs.org/bmaplib.curveline/download/bmaplib.curveline-1.0.0.tgz#826eb0bf1c59fad1b23142be66fc360cf009aea2"
   integrity sha1-gm6wvxxZ+tGyMUK+Zvw2DPAJrqI=
 
 bmaplib.heatmap@^1.0.4:
   version "1.0.4"
-  resolved "http://r.cnpmjs.org/bmaplib.heatmap/download/bmaplib.heatmap-1.0.4.tgz#30161262771fe78af35705ff92457725de5d9850"
+  resolved "https://r.cnpmjs.org/bmaplib.heatmap/download/bmaplib.heatmap-1.0.4.tgz#30161262771fe78af35705ff92457725de5d9850"
   integrity sha1-MBYSYncf54rzVwX/kkV3Jd5dmFA=
 
 bmaplib.lushu@^1.0.7:
   version "1.0.7"
-  resolved "http://r.cnpmjs.org/bmaplib.lushu/download/bmaplib.lushu-1.0.7.tgz#77c17dcf7148d30c46e8430c7ff86b20e418b8b8"
+  resolved "https://r.cnpmjs.org/bmaplib.lushu/download/bmaplib.lushu-1.0.7.tgz#77c17dcf7148d30c46e8430c7ff86b20e418b8b8"
   integrity sha1-d8F9z3FI0wxG6EMMf/hrIOQYuLg=
 
 bmaplib.markerclusterer@^1.0.13:
   version "1.0.13"
-  resolved "http://r.cnpmjs.org/bmaplib.markerclusterer/download/bmaplib.markerclusterer-1.0.13.tgz#442d71a6c40844ee47d01f6db2166b54530b5bd1"
+  resolved "https://r.cnpmjs.org/bmaplib.markerclusterer/download/bmaplib.markerclusterer-1.0.13.tgz#442d71a6c40844ee47d01f6db2166b54530b5bd1"
   integrity sha1-RC1xpsQIRO5H0B9tshZrVFMLW9E=
   dependencies:
     bmaplib.texticonoverlay "^1.0.2"
 
 bmaplib.texticonoverlay@^1.0.2:
   version "1.0.2"
-  resolved "http://r.cnpmjs.org/bmaplib.texticonoverlay/download/bmaplib.texticonoverlay-1.0.2.tgz#d78546ea0f036d9fe964983796315b6c112a05bf"
+  resolved "https://r.cnpmjs.org/bmaplib.texticonoverlay/download/bmaplib.texticonoverlay-1.0.2.tgz#d78546ea0f036d9fe964983796315b6c112a05bf"
   integrity sha1-14VG6g8DbZ/pZJg3ljFbbBEqBb8=
 
 bn.js@^4.0.0, bn.js@^4.1.0, bn.js@^4.1.1, bn.js@^4.4.0:
@@ -2124,6 +2124,11 @@ cookie-signature@1.0.6:
   resolved "https://registry.npm.taobao.org/cookie-signature/download/cookie-signature-1.0.6.tgz#e303a882b342cc3ee8ca513a79999734dab3ae2c"
   integrity sha1-4wOogrNCzD7oylE6eZmXNNqzriw=
 
+cookie-storage@^6.1.0:
+  version "6.1.0"
+  resolved "https://registry.yarnpkg.com/cookie-storage/-/cookie-storage-6.1.0.tgz#291b2f662d961be44f999626593421cbfcf23790"
+  integrity sha512-HeVqbVy8BjXhAAuFtL6MTG+witHoLbxfky2jgVh9FmxmyL6IKa9gSSyPNjevXCCCxPu6Tzd9J8+eXTRQzYU/cg==
+
 cookie@0.4.0:
   version "0.4.0"
   resolved "https://registry.npm.taobao.org/cookie/download/cookie-0.4.0.tgz#beb437e7022b3b6d49019d088665303ebe9c14ba"
@@ -2146,6 +2151,11 @@ copy-descriptor@^0.1.0:
   resolved "https://registry.npm.taobao.org/copy-descriptor/download/copy-descriptor-0.1.1.tgz#676f6eb3c39997c2ee1ac3a924fd6124748f578d"
   integrity sha1-Z29us8OZl8LuGsOpJP1hJHSPV40=
 
+copy-text-to-clipboard@^3.0.1:
+  version "3.0.1"
+  resolved "https://registry.yarnpkg.com/copy-text-to-clipboard/-/copy-text-to-clipboard-3.0.1.tgz#8cbf8f90e0a47f12e4a24743736265d157bce69c"
+  integrity sha512-rvVsHrpFcL4F2P8ihsoLdFHmd404+CMg71S756oRSeQgqk51U3kicGdnvfkrxva0xXH92SjGS62B0XIJsbh+9Q==
+
 copy-webpack-plugin@^4.6.0:
   version "4.6.0"
   resolved "https://registry.npm.taobao.org/copy-webpack-plugin/download/copy-webpack-plugin-4.6.0.tgz#e7f40dd8a68477d405dd1b7a854aae324b158bae"
@@ -2164,6 +2174,11 @@ core-js@^2.6.5:
   version "2.6.9"
   resolved "https://registry.npm.taobao.org/core-js/download/core-js-2.6.9.tgz#6b4b214620c834152e179323727fc19741b084f2"
   integrity sha1-a0shRiDINBUuF5Mjcn/Bl0GwhPI=
+
+core-js@^3.11.0:
+  version "3.20.2"
+  resolved "https://registry.yarnpkg.com/core-js/-/core-js-3.20.2.tgz#46468d8601eafc8b266bd2dd6bf9dee622779581"
+  integrity sha512-nuqhq11DcOAbFBV4zCbKeGbKQsUDRqTX0oqx7AttUBuqe3h20ixsE039QHelbL6P4h+9kytVqyEtyZ6gsiwEYw==
 
 core-util-is@1.0.2, core-util-is@~1.0.0:
   version "1.0.2"
@@ -2449,7 +2464,7 @@ debug@2.6.9, debug@^2.2.0, debug@^2.3.3:
   dependencies:
     ms "2.0.0"
 
-debug@^3.0.0, debug@^3.2.5, debug@^3.2.6:
+debug@^3.2.5, debug@^3.2.6:
   version "3.2.6"
   resolved "https://registry.npm.taobao.org/debug/download/debug-3.2.6.tgz#e83d17de16d8a7efb7717edbe5fb10135eee629b"
   integrity sha1-6D0X3hbYp++3cX7b5fsQE17uYps=
@@ -2650,7 +2665,7 @@ dom-serializer@0:
 
 dom7@^2.1.3:
   version "2.1.3"
-  resolved "http://r.cnpmjs.org/dom7/download/dom7-2.1.3.tgz#a736f9c3bfbc4ca039a81cd095f97d1d7f3de19c"
+  resolved "https://r.cnpmjs.org/dom7/download/dom7-2.1.3.tgz#a736f9c3bfbc4ca039a81cd095f97d1d7f3de19c"
   integrity sha1-pzb5w7+8TKA5qBzQlfl9HX894Zw=
   dependencies:
     ssr-window "^1.0.1"
@@ -2799,7 +2814,7 @@ enhanced-resolve@^4.1.0:
 
 entities@^1.1.1, entities@~1.1.1:
   version "1.1.2"
-  resolved "http://r.cnpmjs.org/entities/download/entities-1.1.2.tgz#bdfa735299664dfafd34529ed4f8522a275fea56"
+  resolved "https://r.cnpmjs.org/entities/download/entities-1.1.2.tgz#bdfa735299664dfafd34529ed4f8522a275fea56"
   integrity sha1-vfpzUplmTfr9NFKe1PhSKidf6lY=
 
 entities@^2.0.0:
@@ -3180,11 +3195,9 @@ flush-write-stream@^1.0.0:
     readable-stream "^2.3.6"
 
 follow-redirects@^1.0.0:
-  version "1.9.0"
-  resolved "https://registry.npm.taobao.org/follow-redirects/download/follow-redirects-1.9.0.tgz#8d5bcdc65b7108fe1508649c79c12d732dcedb4f"
-  integrity sha1-jVvNxltxCP4VCGScecEtcy3O208=
-  dependencies:
-    debug "^3.0.0"
+  version "1.14.7"
+  resolved "https://registry.yarnpkg.com/follow-redirects/-/follow-redirects-1.14.7.tgz#2004c02eb9436eee9a21446a6477debf17e81685"
+  integrity sha512-+hbxoLbFMbRKDwohX8GkTataGqO6Jb7jGwpAlwgy2bIz25XtRm7KEzJM76R1WiNT5SwZkX4Y75SwBolkpmE7iQ==
 
 for-in@^1.0.2:
   version "1.0.2"
@@ -4292,7 +4305,7 @@ lines-and-columns@^1.1.6:
 
 linkify-it@^2.0.0:
   version "2.2.0"
-  resolved "http://r.cnpmjs.org/linkify-it/download/linkify-it-2.2.0.tgz#e3b54697e78bf915c70a38acd78fd09e0058b1cf"
+  resolved "https://r.cnpmjs.org/linkify-it/download/linkify-it-2.2.0.tgz#e3b54697e78bf915c70a38acd78fd09e0058b1cf"
   integrity sha1-47VGl+eL+RXHCjis14/QngBYsc8=
   dependencies:
     uc.micro "^1.0.1"
@@ -4452,7 +4465,7 @@ map-visit@^1.0.0:
 
 markdown-it@^8.4.0:
   version "8.4.2"
-  resolved "http://r.cnpmjs.org/markdown-it/download/markdown-it-8.4.2.tgz#386f98998dc15a37722aa7722084f4020bdd9b54"
+  resolved "https://r.cnpmjs.org/markdown-it/download/markdown-it-8.4.2.tgz#386f98998dc15a37722aa7722084f4020bdd9b54"
   integrity sha1-OG+YmY3BWjdyKqdyIIT0Agvdm1Q=
   dependencies:
     argparse "^1.0.7"
@@ -4482,7 +4495,7 @@ mdn-data@~1.1.0:
 
 mdurl@^1.0.1:
   version "1.0.1"
-  resolved "http://r.cnpmjs.org/mdurl/download/mdurl-1.0.1.tgz#fe85b2ec75a59037f2adfec100fd6c601761152e"
+  resolved "https://r.cnpmjs.org/mdurl/download/mdurl-1.0.1.tgz#fe85b2ec75a59037f2adfec100fd6c601761152e"
   integrity sha1-/oWy7HWlkDfyrf7BAP1sYBdhFS4=
 
 media-typer@0.3.0:
@@ -4736,6 +4749,11 @@ multicast-dns@^6.0.1:
   dependencies:
     dns-packet "^1.3.1"
     thunky "^1.0.2"
+
+mutation-observer@^1.0.3:
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/mutation-observer/-/mutation-observer-1.0.3.tgz#42e9222b101bca82e5ba9d5a7acf4a14c0f263d0"
+  integrity sha512-M/O/4rF2h776hV7qGMZUH3utZLO/jK7p8rnNgGkjKUw8zCGjRQPxB8z6+5l8+VjRUQ3dNYu4vjqXYLr+U8ZVNA==
 
 mz@^2.4.0:
   version "2.7.0"
@@ -6606,7 +6624,7 @@ sshpk@^1.7.0:
 
 ssr-window@^1.0.1:
   version "1.0.1"
-  resolved "http://r.cnpmjs.org/ssr-window/download/ssr-window-1.0.1.tgz#30752a6a4666e7767f0b7e6aa6fc2fdbd0d9b369"
+  resolved "https://r.cnpmjs.org/ssr-window/download/ssr-window-1.0.1.tgz#30752a6a4666e7767f0b7e6aa6fc2fdbd0d9b369"
   integrity sha1-MHUqakZm53Z/C35qpvwv29DZs2k=
 
 ssri@^5.2.4:
@@ -6852,7 +6870,7 @@ svgo@^1.0.0:
 
 swiper@^4.0.7:
   version "4.5.1"
-  resolved "http://r.cnpmjs.org/swiper/download/swiper-4.5.1.tgz#ed43998e780ceb478610079c8d23fd425eca636f"
+  resolved "https://r.cnpmjs.org/swiper/download/swiper-4.5.1.tgz#ed43998e780ceb478610079c8d23fd425eca636f"
   integrity sha1-7UOZjngM60eGEAecjSP9Ql7KY28=
   dependencies:
     dom7 "^2.1.3"
@@ -7056,7 +7074,7 @@ typedarray@^0.0.6:
 
 uc.micro@^1.0.1, uc.micro@^1.0.5:
   version "1.0.6"
-  resolved "http://r.cnpmjs.org/uc.micro/download/uc.micro-1.0.6.tgz#9c411a802a409a91fc6cf74081baba34b24499ac"
+  resolved "https://r.cnpmjs.org/uc.micro/download/uc.micro-1.0.6.tgz#9c411a802a409a91fc6cf74081baba34b24499ac"
   integrity sha1-nEEagCpAmpH8bPdAgbq6NLJEmaw=
 
 uglify-js@3.4.x:
@@ -7254,6 +7272,16 @@ vary@~1.1.2:
   resolved "https://registry.npm.taobao.org/vary/download/vary-1.1.2.tgz#2299f02c6ded30d4a5961b0b9f74524a18f634fc"
   integrity sha1-IpnwLG3tMNSllhsLn3RSShj2NPw=
 
+vconsole@^3.3.4:
+  version "3.11.1"
+  resolved "https://registry.yarnpkg.com/vconsole/-/vconsole-3.11.1.tgz#bab03a5954f962fce7e612ae9b20394bcc7d69cc"
+  integrity sha512-sf2/fyncPWtUaSMJLqHfWz4dsC8y4E493/H9MKQ8qRpVfJhzbRKe6cP7ThKidSoawjZ8kCJHC6c7Uz0FG2mJAg==
+  dependencies:
+    cookie-storage "^6.1.0"
+    copy-text-to-clipboard "^3.0.1"
+    core-js "^3.11.0"
+    mutation-observer "^1.0.3"
+
 vendors@^1.0.0:
   version "1.0.3"
   resolved "https://registry.npm.taobao.org/vendors/download/vendors-1.0.3.tgz#a6467781abd366217c050f8202e7e50cc9eef8c0"
@@ -7275,7 +7303,7 @@ vm-browserify@^1.0.1:
 
 vue-awesome-swiper@^3.1.3:
   version "3.1.3"
-  resolved "http://r.cnpmjs.org/vue-awesome-swiper/download/vue-awesome-swiper-3.1.3.tgz#05500b501ffb3fec9bf7eb9985bcf4ae8360ed9e"
+  resolved "https://r.cnpmjs.org/vue-awesome-swiper/download/vue-awesome-swiper-3.1.3.tgz#05500b501ffb3fec9bf7eb9985bcf4ae8360ed9e"
   integrity sha1-BVALUB/7P+yb9+uZhbz0roNg7Z4=
   dependencies:
     object-assign "^4.1.1"
@@ -7283,7 +7311,7 @@ vue-awesome-swiper@^3.1.3:
 
 vue-baidu-map@^0.21.22:
   version "0.21.22"
-  resolved "http://r.cnpmjs.org/vue-baidu-map/download/vue-baidu-map-0.21.22.tgz#6b76a91ef34f18a782d732ab0f541a1a3aa069e0"
+  resolved "https://r.cnpmjs.org/vue-baidu-map/download/vue-baidu-map-0.21.22.tgz#6b76a91ef34f18a782d732ab0f541a1a3aa069e0"
   integrity sha1-a3apHvNPGKeC1zKrD1QaGjqgaeA=
   dependencies:
     bmaplib.curveline "^1.0.0"
@@ -7310,7 +7338,7 @@ vue-loader@^15.7.0:
 
 vue-router@^3.1.3:
   version "3.1.3"
-  resolved "http://r.cnpmjs.org/vue-router/download/vue-router-3.1.3.tgz#e6b14fabc0c0ee9fda0e2cbbda74b350e28e412b"
+  resolved "https://r.cnpmjs.org/vue-router/download/vue-router-3.1.3.tgz#e6b14fabc0c0ee9fda0e2cbbda74b350e28e412b"
   integrity sha1-5rFPq8DA7p/aDiy72nSzUOKOQSs=
 
 vue-style-loader@^4.1.0:
@@ -7336,7 +7364,7 @@ vue-template-es2015-compiler@^1.9.0:
 
 vue-wechat-title@^2.0.5:
   version "2.0.5"
-  resolved "http://r.cnpmjs.org/vue-wechat-title/download/vue-wechat-title-2.0.5.tgz#628dd4bedca10ef39b9a98f67ca564a4db77260b"
+  resolved "https://r.cnpmjs.org/vue-wechat-title/download/vue-wechat-title-2.0.5.tgz#628dd4bedca10ef39b9a98f67ca564a4db77260b"
   integrity sha1-Yo3UvtyhDvObmpj2fKVkpNt3Jgs=
 
 vue@^2.6.10:
@@ -7538,7 +7566,7 @@ worker-farm@^1.7.0:
 
 wowjs@^1.1.3:
   version "1.1.3"
-  resolved "http://r.cnpmjs.org/wowjs/download/wowjs-1.1.3.tgz#440fc1bb4c7e896840ee47972296a2b59075acbd"
+  resolved "https://r.cnpmjs.org/wowjs/download/wowjs-1.1.3.tgz#440fc1bb4c7e896840ee47972296a2b59075acbd"
   integrity sha1-RA/Bu0x+iWhA7keXIpaitZB1rL0=
   dependencies:
     animate.css latest
